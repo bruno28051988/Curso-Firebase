@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "478403265487",
+    "project_id": "curso-firebase-c22fb",
+    "storage_bucket": "curso-firebase-c22fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478403265487:android:af76c2edbe419cd18b48ba",
+        "android_client_info": {
+          "package_name": "com.br.cursofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478403265487-ngonttiliu4adtadciuam1i2um938dud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.br.cursofirebase",
+            "certificate_hash": "e0658d8adf6da4eb251147b6d6d479c1c4135bbe"
+          }
+        },
+        {
+          "client_id": "478403265487-4btj734n9ag0b71b7pirj103djo8gpbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjHGXGPBYnt8Ou9OkvypDoXzgBgUyA-i0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478403265487-4btj734n9ag0b71b7pirj103djo8gpbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
